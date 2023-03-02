@@ -18,6 +18,7 @@ I'm a 22-year-old Master of Computer Science student at Monash University. I'm a
 
 I love playing games on various platforms, including PS5, Xbox, Switch, and PC. Some of my favorite games are:
 
+- The Last of Us PART I
 - The Legend of Zelda: Breath of the Wild
 - God of War
 - Red Dead Redemption 2
