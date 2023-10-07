@@ -25,4 +25,4 @@ I love playing games on various platforms, including PS5, Xbox, Switch, and PC. 
 - Fortnite
 - Among Us
 
-Feel free to connect with me on [GitHub](https://github.com/lriley26), where I'm always working on something new!
+Feel free to connect with me on [GitHub](https://github.com/CarlWtrs), where I'm always working on something new!
