@@ -7,7 +7,7 @@ I'm a 22-year-old Master of Computer Science student at Monash University. I'm a
 - Programming languages: C++, Python, Java, JavaScript
 - Web development: HTML, CSS, React
 - Database: SQL, MongoDB
-- Operating systems: Linux, Windows, maxOS
+- Operating systems: Linux, Windows, macOS
 
 ## Current Projects
 
