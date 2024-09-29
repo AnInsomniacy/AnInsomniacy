@@ -61,8 +61,8 @@ I'm a passionate **Software Developer** and currently a **Master of Information 
 
 ## 🏸 Interests
 
+- **Badminton**: I've been playing badminton for three to four years, specializing in singles. During my undergraduate years, I was a member of my faculty's badminton team.
 - **Programming Challenges**: Enjoy solving complex problems and participating in coding competitions.
-- **Badminton**: Play regularly to maintain an active lifestyle.
 - **Gaming**: Passionate about gaming on PS5, Xbox, Switch, and PC.
 
 ## 📫 Get in Touch
