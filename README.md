@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Software Developer** and currently a **Master of Information Technology** student at **Monash University**. I specialize in **Back-end Development** and **Mobile Application Development**. My focus is on building efficient, scalable, and user-friendly applications that provide real-world solutions.
+I'm a passionate **Software Developer** with a strong focus on **Back-end Development** and **Mobile Application Development**. I enjoy creating efficient, scalable, and user-friendly applications that solve real-world problems.
 
 ## 🔧 Skills & Expertise
 
@@ -12,14 +12,6 @@ I'm a passionate **Software Developer** and currently a **Master of Information 
   - **Android**: Kotlin
 - **Data Analysis**: Python (data analysis, visualization, report generation)
 - **Version Control**: Git, GitHub
-
-## 🎓 Education
-
-- **Master of Information Technology**, Monash University (Expected Graduation: 2026)
-  - **Core Courses**: Internet Application Development, Mobile & Distributed Systems, Software Engineering, Advanced Database Technology
-  - **Specializations**: User Interface Design, Security, Systems Verification and Validation
-- **Bachelor of Network Engineering**, South China Normal University (Graduation: 2024)
-  - **Core Courses**: Software Engineering, Data Structures, Operating Systems, Computer Networks, Compiler Principles
 
 ## 💼 Projects
 
@@ -61,7 +53,7 @@ I'm a passionate **Software Developer** and currently a **Master of Information 
 
 ## 🏸 Interests
 
-- **Badminton**: I've been playing badminton for three to four years, specializing in singles. During my undergraduate years, I was a member of my faculty's badminton team.
+- **Badminton**: I have received three to four years of professional badminton training and specialize in singles. During my undergraduate years, I was a member of my faculty's badminton team.
 - **Programming Challenges**: Enjoy solving complex problems and participating in coding competitions.
 - **Gaming**: Passionate about gaming on PS5, Xbox, Switch, and PC.
 
@@ -69,4 +61,4 @@ I'm a passionate **Software Developer** and currently a **Master of Information 
 
 - **GitHub**: [AnInsomniacy](https://github.com/AnInsomniacy)
 
-As a dedicated student and developer, I'm eager to learn, grow, and collaborate on exciting new projects. Feel free to reach out!
+I'm always open to exciting new projects and collaboration opportunities. Feel free to reach out!
