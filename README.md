@@ -68,6 +68,5 @@ I'm a passionate **Software Developer** and currently a **Master of Information 
 ## 📫 Get in Touch
 
 - **GitHub**: [AnInsomniacy](https://github.com/AnInsomniacy)
-- **LinkedIn**: [LinkedIn Profile](#)
 
 As a dedicated student and developer, I'm eager to learn, grow, and collaborate on exciting new projects. Feel free to reach out!
