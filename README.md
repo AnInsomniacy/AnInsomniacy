@@ -1,54 +1,51 @@
-# Hello! 👋
+# Hi there! 👋
 
-I am **AnInsomniacy**, 22 years old, currently pursuing a Master's degree in Computer Science at **Monash University**. I am passionate about developing efficient and innovative software solutions and enthusiastic about new technologies.
+I'm AnInsomniacy, a **Master of Computer Science** student at **Monash University**, with a strong passion for technology, gaming, and software development. My academic background and personal projects demonstrate a deep interest in full-stack development, machine learning, and competitive programming. When I'm not coding or studying, you'll find me indulging in **gaming** across multiple platforms or playing **badminton**.
 
-## 🛠 Skills
+## 🚀 Skills
 
-- **Programming Languages**: C++, Python, Java, JavaScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Databases**: SQL, MongoDB
+### Programming Languages
+- **C++**: Competitive programming and system-level applications
+- **Python**: Data analysis, machine learning, and scripting
+- **Java**: Object-oriented programming and backend systems
+- **JavaScript**: Frontend and backend web development
+
+### Web Development
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js, Express
+- **Version Control**: Git, GitHub
+
+### Databases
+- **Relational**: SQL (MySQL, PostgreSQL)
+- **NoSQL**: MongoDB
+
+### Tools & Technologies
 - **Operating Systems**: Linux, Windows, macOS
-- **Others**: Git, Docker, TensorFlow, Machine Learning Algorithms
+- **Frameworks**: React, TensorFlow
+- **Cloud Platforms**: AWS, Heroku
 
-## 📚 Education Background
+## 🖥️ Projects
 
-- **Monash University**, Master of Computer Science (2023 - Present)
-- **Some University**, Bachelor of Computer Science (2019 - 2023)
+### 1. [Project 1 - Full-Stack Web Application](https://github.com/AnInsomniacy/project1)
+A fully responsive **web application** built using **React** for the frontend and **Node.js** with **Express** for the backend. Integrated **MongoDB** for data storage, and deployed on **Heroku**.
 
-## 💼 Project Experience
+### 2. [Project 2 - Machine Learning with TensorFlow](https://github.com/AnInsomniacy/project2)
+Developed a machine learning model using **Python** and **TensorFlow** to predict stock market trends. Implemented data preprocessing, model training, and evaluation with a focus on real-world applications.
 
-### 📌 [Project 1: Full-Stack Web Application Based on React and Node.js](Project Link)
+## 🎮 Gaming Enthusiast
 
-- **Description**: Developed a web application offering user authentication and real-time data visualization.
-- **Responsibilities**:
-  - Designed and implemented the front-end interface to enhance user experience.
-  - Built a back-end RESTful API for efficient data processing.
-  - Optimized database queries to improve system performance.
+As an avid gamer, I play on platforms like **PS5**, **Xbox**, **Nintendo Switch**, and **PC**. I enjoy competitive and narrative-driven games that challenge both strategic and critical thinking skills.
 
-### 📌 [Project 2: Machine Learning Model Based on TensorFlow](Project Link)
+### Favorite Games
+- **The Last of Us PART I**
+- **The Legend of Zelda: Breath of the Wild**
+- **God of War**
+- **Red Dead Redemption 2**
+- **Fortnite**
+- **Among Us**
 
-- **Description**: Developed a deep learning model for image classification.
-- **Responsibilities**:
-  - Handled data preprocessing and augmentation to enhance the model's generalization ability.
-  - Tuned the neural network architecture and parameters, achieving an accuracy rate of 95%.
-  - Deployed the model and created a simple user interface for testing.
+---
 
-## 🏸 Interests and Hobbies
+I'm always looking for opportunities to grow, collaborate, and contribute to exciting projects. Feel free to check out my repositories or reach out to me for potential collaborations.
 
-- **Programming Challenges**: Enjoy participating in coding competitions and solving complex problems.
-- **Badminton**: Frequently play badminton to maintain an active lifestyle.
-- **Gaming**: In my spare time, I play games on PS5, Xbox, Switch, and PC. My favorite games include:
-  - The Last of Us Part I
-  - The Legend of Zelda: Breath of the Wild
-  - God of War
-  - Red Dead Redemption 2
-  - Fortnite
-  - Among Us
-
-## 📫 Contact Information
-
-- **GitHub**: [AnInsomniacy](https://github.com/AnInsomniacy)
-- **Email**: your.email@example.com
-- **LinkedIn**: [LinkedIn Profile](Link)
-
-Feel free to reach out to discuss technology and collaboration opportunities!
+📫 **Connect with me on [GitHub](https://github.com/AnInsomniacy)** or drop me a message!
