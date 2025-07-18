@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an AI enthusiast with a passion for **large language models** and **autonomous driving systems**. Currently preparing to pursue my PhD at **Sun Yat-sen University**, where I'll be focusing on autonomous driving research.
+I'm an AI enthusiast with a passion for **large language models** and **autonomous driving systems**. Currently preparing to pursue my PhD at the **School of Intelligent Systems Engineering, Sun Yat-sen University**, specializing in autonomous driving research.
 
 🔬 **Research Interests:**
 - Large Language Models & Foundation Models
@@ -11,7 +11,7 @@ I'm an AI enthusiast with a passion for **large language models** and **autonomo
 - High-Performance Computing
 
 🎓 **Education:**
-- Incoming PhD Student at Sun Yat-sen University (Autonomous Driving)
+- Incoming PhD Student at School of Intelligent Systems Engineering, Sun Yat-sen University (Autonomous Driving)
 
 ---
 
@@ -83,13 +83,13 @@ Computer vision system for real-time player pose detection and movement analysis
 
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 - 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🏛️ Institution: Sun Yat-sen University (Incoming)
+- 🏛️ Institution: School of Intelligent Systems Engineering, Sun Yat-sen University (Incoming)
 
 ---
 
 <div align="center">
 
-*"Learning never exhausts the mind." - Leonardo da Vinci*
+*"The ability to demonstrate one's strength is itself a form of strength."*
 
 **Open to collaborations and research discussions!** 🤝
 
