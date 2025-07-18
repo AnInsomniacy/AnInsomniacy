@@ -39,8 +39,8 @@ Computer vision system for real-time player pose detection and movement analysis
 - Latest developments in computer vision research
 
 ---
-
 🏸 **Personal Interest:** I have a deep passion for badminton, having received 4 years of professional training during childhood.
+---
 
 <div align="center">
 
