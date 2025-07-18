@@ -9,10 +9,6 @@ I'm a researcher in **autonomous driving** and **large language models**. Curren
 - Autonomous Driving Systems
 - Computer Vision & Deep Learning
 - High-Performance Computing
-
-🎓 **Education:**
-- Incoming PhD Student at School of Intelligent Systems Engineering, Sun Yat-sen University (Autonomous Driving)
-
 ---
 
 ## 🛠️ Tech Stack
