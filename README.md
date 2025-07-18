@@ -1,64 +1,96 @@
 # Hi there! 👋
 
-I'm a passionate **Software Developer** with a strong focus on **Back-end Development** and **Mobile Application Development**. I enjoy creating efficient, scalable, and user-friendly applications that solve real-world problems.
+## About Me
 
-## 🔧 Skills & Expertise
+I'm an AI enthusiast with a passion for **large language models** and **autonomous driving systems**. Currently preparing to pursue my PhD at **Sun Yat-sen University**, where I'll be focusing on autonomous driving research.
 
-- **Programming Languages**: Python, Java, C++, Kotlin, SwiftUI
-- **Back-end Development**: Django, RESTful API design, microservices architecture
-- **Databases**: SQL, MySQL (database design and optimization)
-- **Mobile Development**:
-  - **iOS/macOS**: SwiftUI
-  - **Android**: Kotlin
-- **Data Analysis**: Python (data analysis, visualization, report generation)
-- **Version Control**: Git, GitHub
+🔬 **Research Interests:**
+- Large Language Models & Foundation Models
+- Autonomous Driving Systems
+- Computer Vision & Deep Learning
+- High-Performance Computing
 
-## 💼 Projects
+🎓 **Education:**
+- Incoming PhD Student at Sun Yat-sen University (Autonomous Driving)
 
-### [TasteMaster](https://github.com/AnInsomniacy/TasteMaster) 📱
+---
 
-*Technologies: SwiftUI, Python, MySQL*
+## 🛠️ Tech Stack
 
-- Developed an online recipe social application where users can share and browse recipes.
-- Built native iOS/macOS apps using **SwiftUI**, providing an intuitive and seamless user experience.
-- Implemented back-end services with **Python**, designing efficient API interfaces for smooth front-end and back-end communication.
-- Integrated **MySQL** for user data management, focusing on database design and optimization to ensure data security and high availability.
+**AI & Machine Learning**
+```
+PyTorch • TensorFlow • OpenCV • scikit-learn • NumPy
+```
 
-### [ChatSpring](https://github.com/AnInsomniacy/ChatSpring) 🤖
+**Programming Languages**
+```
+Python • C++ • CUDA • JavaScript
+```
 
-*Technologies: Kotlin, MySQL*
+**Tools & Platforms**
+```
+Git • Docker • Linux • PyQt • Open3D
+```
 
-- Built a GPT-driven intelligent Q&A assistant with a dynamic, card-style interface.
-- Developed a native Android application using **Kotlin**, delivering a responsive and interactive user experience.
-- Integrated GPT models for intelligent Q&A functionality.
-- Optimized **MySQL** interactions to ensure real-time AI responses, enhancing application performance.
+**Specializations**
+```
+Computer Vision • Deep Learning • Scientific Computing • 3D Reconstruction
+```
 
-### [GenBlogAPI](https://github.com/AnInsomniacy/GenBlogAPI) 📝
+---
 
-*Technologies: Python, Django, MySQL*
+## 🚀 Featured Projects
 
-- Designed and implemented the back-end of a blog platform using **Django**.
-- Features include user authentication, article management, and commenting system.
-- Utilized **MySQL** for data storage with a focus on efficient data processing and scalability.
-- Implemented token-based authentication to secure user data, ensuring stable and reliable back-end services.
+### 🎯 [TrackNetV4: Enhanced Sports Object Tracking](https://github.com/username/tracknet-v4-pytorch)
+PyTorch implementation of TrackNetV4 with motion attention mechanisms for fast object tracking.
+- **Tech:** PyTorch, Computer Vision, Attention Mechanisms
+- **Focus:** Real-time object detection and tracking optimization
 
-## 🌟 Focus Areas
+### 🔬 [DXRD: X-Ray Diffraction Data Processing System](https://github.com/username/dxrd-system)
+Large-scale scientific data processing pipeline for X-ray diffraction analysis with 3D reconstruction.
+- **Tech:** Scientific Computing, 3D Visualization, High-Performance Processing
+- **Focus:** Memory optimization and geometric transformations
 
-- **Back-end Development**: Building efficient and scalable server-side applications and APIs using Python and Django.
-- **Mobile Application Development**:
-  - **iOS Development**: Crafting native iOS applications with SwiftUI, emphasizing user experience and performance.
-  - **Android Development**: Creating robust Android applications using Kotlin.
-- **Data Analysis**: Leveraging Python and SQL for data analysis, mining, and visualization to support business decisions.
-- **Database Management**: Expertise in database design, optimization, and management for data integrity and high availability.
+### 🏸 [Badminton AI Vision System](https://github.com/username/badminton-ai-vision)
+Computer vision system for real-time player pose detection and movement analysis.
+- **Tech:** YOLO, Pose Estimation, Real-time Processing
+- **Focus:** Sports analytics and performance tracking
 
-## 🏸 Interests
+---
 
-- **Badminton**: I have received three to four years of professional badminton training and specialize in singles. During my undergraduate years, I was a member of my faculty's badminton team.
-- **Programming Challenges**: Enjoy solving complex problems and participating in coding competitions.
-- **Gaming**: Passionate about gaming on PS5, Xbox, Switch, and PC.
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced techniques in large language models
+- Multi-modal learning for autonomous driving
+- Efficient model deployment and optimization
+- Latest developments in computer vision research
+
+---
 
 ## 📫 Get in Touch
 
-- **GitHub**: [AnInsomniacy](https://github.com/AnInsomniacy)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🏛️ Institution: Sun Yat-sen University (Incoming)
 
-I'm always open to exciting new projects and collaboration opportunities. Feel free to reach out!
+---
+
+<div align="center">
+
+*"Learning never exhausts the mind." - Leonardo da Vinci*
+
+**Open to collaborations and research discussions!** 🤝
+
+</div>
