@@ -64,8 +64,6 @@ Computer vision system for real-time player pose detection and movement analysis
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&theme=default&hide_border=true)
-
 </div>
 
 ---
@@ -76,14 +74,6 @@ Computer vision system for real-time player pose detection and movement analysis
 - Multi-modal learning for autonomous driving
 - Efficient model deployment and optimization
 - Latest developments in computer vision research
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🏛️ Institution: School of Intelligent Systems Engineering, Sun Yat-sen University (Incoming)
 
 ---
 
