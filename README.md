@@ -44,8 +44,6 @@ Computer vision system for real-time player pose detection and movement analysis
 
 <div align="center">
 
-*"The ability to demonstrate one's strength is itself a form of strength."*
-
-**Open to collaborations and research discussions!** 🤝
+*"Your real strength isn't just what you can do—it's whether you can actually do it when it counts."*
 
 </div>
