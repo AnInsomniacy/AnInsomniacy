@@ -4,8 +4,6 @@
 
 I'm a researcher in **autonomous driving** and **large language models**. Currently preparing to pursue my PhD at the **School of Intelligent Systems Engineering, Sun Yat-sen University**, specializing in autonomous driving research.
 
-🏸 **Personal Interest:** I have a deep passion for badminton, having received 4 years of professional training during childhood. This background sparked my interest in sports analytics and computer vision applications.
-
 🔬 **Research Interests:**
 - Large Language Models & Foundation Models
 - Autonomous Driving Systems
@@ -41,6 +39,8 @@ Computer vision system for real-time player pose detection and movement analysis
 - Latest developments in computer vision research
 
 ---
+
+🏸 **Personal Interest:** I have a deep passion for badminton, having received 4 years of professional training during childhood.
 
 <div align="center">
 
