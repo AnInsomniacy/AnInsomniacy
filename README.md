@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an AI enthusiast with a passion for **large language models** and **autonomous driving systems**. Currently preparing to pursue my PhD at the **School of Intelligent Systems Engineering, Sun Yat-sen University**, specializing in autonomous driving research.
+I'm a researcher in **autonomous driving** and **large language models**. Currently preparing to pursue my PhD at the **School of Intelligent Systems Engineering, Sun Yat-sen University**, specializing in autonomous driving research.
 
 🔬 **Research Interests:**
 - Large Language Models & Foundation Models
@@ -55,16 +55,6 @@ Large-scale scientific data processing pipeline for X-ray diffraction analysis w
 Computer vision system for real-time player pose detection and movement analysis.
 - **Tech:** YOLO, Pose Estimation, Real-time Processing
 - **Focus:** Sports analytics and performance tracking
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
