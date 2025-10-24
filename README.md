@@ -14,11 +14,6 @@ I'm a researcher in **autonomous driving** and **large language models**. Curren
 
 ## 🚀 Featured Projects
 
-### 🎯 TrackNetV4: Enhanced Sports Object Tracking
-PyTorch implementation of TrackNetV4 with motion attention mechanisms for fast object tracking.
-- **Tech:** PyTorch, Computer Vision, Attention Mechanisms
-- **Focus:** Real-time object detection and tracking optimization
-
 ### 🔬 DXRD: X-Ray Diffraction Data Processing System
 Large-scale scientific data processing pipeline for X-ray diffraction analysis with 3D reconstruction.
 - **Tech:** Scientific Computing, 3D Visualization, High-Performance Processing
