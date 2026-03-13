@@ -12,36 +12,51 @@
 
 - 🏫 Incoming PhD @ **Sun Yat-sen University**, School of Intelligent Systems Engineering
 - 🔬 Research interests: Autonomous Driving · Large Language Models · Computer Vision · Deep Learning
-- 🏸 Badminton enthusiast with 4 years of professional training — now I analyze matches with AI
-- 🌱 Currently exploring multi-modal perception for autonomous driving and efficient LLM deployment
+- 🏸 Badminton enthusiast with professional training
+- 🌱 Currently exploring multi-modal perception for autonomous driving and world models
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech & Projects
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/AnInsomniacy/motrix-next">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,react,rust,tauri,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,tensorflow,pytorch,opencv,kubernetes&theme=dark" />
 </a>
 </div>
 
----
-
-## 🚀 Featured Projects
+<br/><br/>
 
 <div align="center">
-<a href="https://github.com/AnInsomniacy/motrix-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-#### 🔬 DXRD — X-Ray Diffraction Data Processing System
-Large-scale scientific data processing pipeline for X-ray diffraction analysis with 3D reconstruction.
-- **Tech:** Scientific Computing, 3D Visualization, High-Performance Processing
-- **Focus:** Memory optimization and geometric transformations
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<sub>
 
 *"Live life to the fullest."*
 
+</sub>
 </div>

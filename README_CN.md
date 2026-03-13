@@ -12,36 +12,51 @@
 
 - 🏫 **中山大学** 智能系统工程学院 · 准博士生
 - 🔬 研究方向：自动驾驶 · 大语言模型 · 计算机视觉 · 深度学习
-- 🏸 羽毛球爱好者，童年接受过 4 年专业训练，现在用 AI 分析比赛
-- 🌱 目前在研究多模态自动驾驶感知与大模型高效部署
+- 🏸 羽毛球爱好者，曾接受过专业训练
+- 🌱 目前在研究多模态自动驾驶感知与世界模型
+
+## 📊 GitHub 统计
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ 技术与项目
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/AnInsomniacy/motrix-next">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,react,rust,tauri,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,tensorflow,pytorch,opencv,kubernetes&theme=dark" />
 </a>
 </div>
 
----
-
-## 🚀 代表项目
+<br/><br/>
 
 <div align="center">
-<a href="https://github.com/AnInsomniacy/motrix-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-#### 🔬 DXRD — X 射线衍射数据处理系统
-大规模科学数据处理流水线，用于 X 射线衍射分析与 3D 重建。
-- **技术栈：** 科学计算、3D 可视化、高性能处理
-- **核心：** 内存优化与几何变换
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<sub>
 
 *"Live life to the fullest."*
 
+</sub>
 </div>
