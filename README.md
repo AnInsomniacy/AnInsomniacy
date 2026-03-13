@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,rust,tauri,cpp,react,tailwind,docker,linux,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,react,rust,tauri,cpp&theme=dark" />
 </a>
 </div>
 
@@ -26,79 +26,24 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnInsomniacy&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnInsomniacy&theme=tokyonight&no-frame=true&no-bg=true&column=-1" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/AnInsomniacy/motrix-next">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AnInsomniacy/badminton-ai-vision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=badminton-ai-vision&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AnInsomniacy/turdus-m3rula-gui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=turdus-m3rula-gui&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Activity Graph
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnInsomniacy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<a href="https://github.com/AnInsomniacy/motrix-next">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
+</a>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnInsomniacy/AnInsomniacy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnInsomniacy/AnInsomniacy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AnInsomniacy/AnInsomniacy/output/github-snake.svg" />
-</picture>
-</div>
+#### 🔬 DXRD — X-Ray Diffraction Data Processing System
+Large-scale scientific data processing pipeline for X-ray diffraction analysis with 3D reconstruction.
+- **Tech:** Scientific Computing, 3D Visualization, High-Performance Processing
+- **Focus:** Memory optimization and geometric transformations
 
 ---
 
@@ -106,8 +51,4 @@
 
 *"Live life to the fullest."*
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AnInsomniacy.AnInsomniacy&left_color=transparent&right_color=6AD3F7)
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
