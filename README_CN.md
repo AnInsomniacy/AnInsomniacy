@@ -8,13 +8,13 @@
 
 ## 🧑‍💻 About
 
-- 🏫 Incoming PhD @ **Sun Yat-sen University**, School of Intelligent Systems Engineering
-- 🔬 Research interests: Autonomous Driving · Large Language Models · Computer Vision · Deep Learning
-- 🏸 Badminton enthusiast with 4 years of professional training — now I analyze matches with AI
+- 🏫 **中山大学** 智能系统工程学院 · 准博士生
+- 🔬 研究方向：自动驾驶 · 大语言模型 · 计算机视觉 · 深度学习
+- 🏸 羽毛球爱好者，童年接受过 4 年专业训练，现在用 AI 分析比赛
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈
 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 成就
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AnInsomniacy&theme=tokyonight&no-frame=true&no-bg=true&column=-1" width="100%"/>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 代表项目
 
 <div align="center">
 <a href="https://github.com/AnInsomniacy/motrix-next">
@@ -69,7 +69,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 贡献活动
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnInsomniacy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
