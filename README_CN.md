@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Teaching+cars+to+drive+so+I+don't+have+to;Probably+debugging+something+right+now;PhD+life%3A+fueled+by+coffee+and+curiosity" alt="Typing SVG" /></a>
 
+[![Email](https://img.shields.io/badge/Email-qq1326555262@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:qq1326555262@gmail.com)
+
 </div>
 
 ## 🧑‍💻 About
@@ -11,23 +13,12 @@
 - 🏫 **中山大学** 智能系统工程学院 · 准博士生
 - 🔬 研究方向：自动驾驶 · 大语言模型 · 计算机视觉 · 深度学习
 - 🏸 羽毛球爱好者，童年接受过 4 年专业训练，现在用 AI 分析比赛
-
----
-
-## 🛠️ 技术栈
+- 🌱 目前在研究多模态自动驾驶感知与大模型高效部署
 
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,react,rust,tauri,cpp&theme=dark" />
 </a>
-</div>
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ---
@@ -48,6 +39,8 @@
 ---
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
 *"Live life to the fullest."*
 
