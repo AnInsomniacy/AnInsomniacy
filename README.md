@@ -18,7 +18,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,rust,tauri,cpp,react,tailwind,docker,linux,vscode,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,ts,js,vue,rust,tauri,cpp,react,tailwind,docker,linux,vscode,git&theme=dark" />
 </a>
 </div>
 
@@ -26,13 +26,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=AnInsomniacy&theme=tokyonight&hide_border=true"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=AnInsomniacy&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
@@ -47,25 +53,32 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/AnInsomniacy/motrix-next">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-<a href="https://github.com/AnInsomniacy/badminton-ai-vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=badminton-ai-vision&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/AnInsomniacy/turdus-m3rula-gui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=turdus-m3rula-gui&theme=tokyonight&hide_border=true" />
-</a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/AnInsomniacy/motrix-next">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AnInsomniacy/badminton-ai-vision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=badminton-ai-vision&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/AnInsomniacy/turdus-m3rula-gui">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=turdus-m3rula-gui&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
