@@ -14,15 +14,15 @@ I'm a researcher in **autonomous driving** and **large language models**. Curren
 
 ## 🚀 Featured Projects
 
+### ⬇️ Motrix Next
+Modern, full-featured download manager built with Tauri 2 for blazing-fast native performance.
+- **Tech:** Tauri 2 (Rust), Vue 3, aria2, TypeScript
+- **Focus:** Multi-protocol downloading and cross-platform desktop experience
+
 ### 🔬 DXRD: X-Ray Diffraction Data Processing System
 Large-scale scientific data processing pipeline for X-ray diffraction analysis with 3D reconstruction.
 - **Tech:** Scientific Computing, 3D Visualization, High-Performance Processing
 - **Focus:** Memory optimization and geometric transformations
-
-### 🏸 Badminton AI Vision System
-Computer vision system for real-time player pose detection and movement analysis.
-- **Tech:** YOLO, Pose Estimation, Real-time Processing
-- **Focus:** Sports analytics and performance tracking
 
 ---
 
@@ -42,6 +42,6 @@ Computer vision system for real-time player pose detection and movement analysis
 
 <div align="center">
 
-*"Your real strength isn't just what you can do—it's whether you can actually do it when it counts."*
+*"Live life to the fullest."*
 
 </div>
