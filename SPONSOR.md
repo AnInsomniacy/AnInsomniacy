@@ -12,6 +12,8 @@
 
 ## 🌍 International — via GitHub Sponsors
 
+👇 Click the badge below — less than a coffee, more than a Star ⭐
+
 <a href="https://github.com/sponsors/AnInsomniacy">
   <img src="https://img.shields.io/badge/GitHub_Sponsors-AnInsomniacy-30363d?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"/>
 </a>
@@ -19,6 +21,8 @@
 ---
 
 ## 🇨🇳 国内用户 — 通过微信 / 支付宝
+
+📱 扫码赞助，金额随意，心意无价 ❤️
 
 | 微信赞赏码 | 支付宝收款码 |
 |:---:|:---:|
