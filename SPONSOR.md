@@ -4,7 +4,9 @@
 
 **Buy me a coffee and maybe I'll upgrade to a noodle with an egg 🥚**
 
-**开源不易，赏口饭吃 🍚 吃泡面的时候也想加个蛋 🥚😭**
+**开源不易，赏口饭吃 🍚**
+
+**吃泡面的时候我也想加个蛋 🥚😭**
 
 ---
 
