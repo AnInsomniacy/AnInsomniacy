@@ -26,5 +26,5 @@
 
 | 微信赞赏码 | 支付宝收款码 |
 |:---:|:---:|
-| <img src="./assets/wechat.JPG" width="220"/> | <img src="./assets/alipay.JPG" width="220"/> |
+| <img src="./assets/wechat.jpg" width="220"/> | <img src="./assets/alipay.jpg" width="220"/> |
 | 微信扫一扫 | 支付宝扫一扫 |
