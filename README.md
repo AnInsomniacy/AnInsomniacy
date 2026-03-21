@@ -20,10 +20,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="./profile/stats.svg" height="180"/>
+      <img src="./assets/stats.svg" height="180"/>
     </td>
     <td>
-      <img src="./profile/top-langs.svg" height="180"/>
+      <img src="./assets/top-langs.svg" height="180"/>
     </td>
   </tr>
 </table>
@@ -34,12 +34,12 @@
   <tr>
     <td>
       <a href="https://github.com/AnInsomniacy/motrix-next">
-        <img src="./profile/pin-motrix-next.svg" />
+        <img src="./assets/pin-motrix-next.svg" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
-        <img src="./profile/pin-tracknet.svg" />
+        <img src="./assets/pin-tracknet.svg" />
       </a>
     </td>
   </tr>
