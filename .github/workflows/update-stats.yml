@@ -1,0 +1,102 @@
+# ---------------------------------------------------------------
+# Workflow: Update README Stats Cards
+# ---------------------------------------------------------------
+# Generates github-readme-stats SVG cards as static assets via
+# GitHub Actions, eliminating dependency on the public Vercel
+# instance which suffers from rate-limiting and stale caches.
+#
+# Schedule: Runs daily at midnight UTC and on manual dispatch.
+# Output:   SVG files committed to the profile/ directory.
+# ---------------------------------------------------------------
+
+name: Update README Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:     # Allow manual trigger
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ----------------------------------------------------------
+      # Stats Card
+      # Shows total stars, commits, PRs, issues, and contributions
+      # ----------------------------------------------------------
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: >-
+            username=${{ github.repository_owner }}
+            &show_icons=true
+            &theme=tokyonight
+            &include_all_commits=true
+            &count_private=true
+            &hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Top Languages Card
+      # Shows most-used programming languages across repositories
+      # ----------------------------------------------------------
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >-
+            username=${{ github.repository_owner }}
+            &layout=compact
+            &langs_count=8
+            &theme=tokyonight
+            &hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Pin Card — motrix-next
+      # ----------------------------------------------------------
+      - name: Generate pin card for motrix-next
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >-
+            username=${{ github.repository_owner }}
+            &repo=motrix-next
+            &theme=tokyonight
+            &hide_border=true
+          path: profile/pin-motrix-next.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Pin Card — tracknet-series-pytorch
+      # ----------------------------------------------------------
+      - name: Generate pin card for tracknet-series-pytorch
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >-
+            username=${{ github.repository_owner }}
+            &repo=tracknet-series-pytorch
+            &theme=tokyonight
+            &hide_border=true
+          path: profile/pin-tracknet.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ----------------------------------------------------------
+      # Commit and push generated SVGs
+      # ----------------------------------------------------------
+      - name: Commit and push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || (git commit -m "chore: update readme stats cards" && git push)

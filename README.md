@@ -20,10 +20,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnInsomniacy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+      <img src="./profile/stats.svg" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnInsomniacy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
+      <img src="./profile/top-langs.svg" height="180"/>
     </td>
   </tr>
 </table>
@@ -34,12 +34,12 @@
   <tr>
     <td>
       <a href="https://github.com/AnInsomniacy/motrix-next">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=motrix-next&theme=tokyonight&hide_border=true" />
+        <img src="./profile/pin-motrix-next.svg" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnInsomniacy&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true" />
+        <img src="./profile/pin-tracknet.svg" />
       </a>
     </td>
   </tr>
