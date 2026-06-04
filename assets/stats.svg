@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">AnInsomniac's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 7628, Total Commits  : 3262, Total PRs: 0, Total Issues: 6, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 7660, Total Commits  : 3264, Total PRs: 0, Total Issues: 6, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.88339721497142;
+        stroke-dashoffset: 89.87508390884707;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >7.6k</text>
+      >7.7k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
