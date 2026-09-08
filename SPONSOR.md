@@ -1,9 +1,30 @@
-# Support my work
+# ☕ Sponsor / 赞助
 
-I'm a PhD student building open-source projects. If you find my work useful, you can support it through [GitHub Sponsors](https://github.com/sponsors/AnInsomniacy), WeChat or Alipay.
+**PhD student here — surviving on instant noodles and free campus WiFi 🍜**
 
-| WeChat | Alipay |
+**Buy me a coffee and maybe I'll upgrade to a noodle with an egg 🥚**
+
+**开源不易，赏口饭吃 🍚**
+
+**吃泡面的时候我也想加个蛋 😭**
+
+---
+
+## 🌍 International — via GitHub Sponsors
+
+👇 Click the badge below — less than a coffee, more than a Star ⭐
+
+<a href="https://github.com/sponsors/AnInsomniacy">
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-AnInsomniacy-30363d?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors"/>
+</a>
+
+---
+
+## 🇨🇳 国内用户 — 通过微信 / 支付宝
+
+📱 扫码赞助，金额随意，心意无价 ❤️
+
+| 微信赞赏码 | 支付宝收款码 |
 |:---:|:---:|
-| <img src="./assets/qr-wechat.jpg" alt="WeChat payment QR code" width="220"> | <img src="./assets/qr-alipay.jpg" alt="Alipay payment QR code" width="220"> |
-
-[Back to my profile](./README.md)
+| <img src="./assets/qr-wechat.jpg" width="220"/> | <img src="./assets/qr-alipay.jpg" width="220"/> |
+| 微信扫一扫 | 支付宝扫一扫 |

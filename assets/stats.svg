@@ -1,19 +1,19 @@
 
       <svg
-        width="400"
+        width="467"
         height="195"
-        viewBox="0 0 400 195"
+        viewBox="0 0 467 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Open-source activity, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 10782, Total Commits  : 4056, Total PRs: 0, Total Issues: 11, Contributed to (last year): 3</desc>
+        <title id="titleId">AnInsomniac&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 10782, Total Commits  : 4057, Total PRs: 0, Total Issues: 11, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #172b4d;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #35465c;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #35465c;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #0969da;
+      fill: #bf91f3;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #172b4d;
+      stroke: #70a5fd;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #172b4d;
+      stroke: #70a5fd;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.91118530430266;
+        stroke-dashoffset: 86.9094403425925;
       }
     }
   
@@ -110,8 +110,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="399"
-          fill="#ffffff00"
+          width="466"
+          fill="#1a1b27"
           stroke-opacity="0"
         />
 
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Open-source activity</text>
+      >AnInsomniac&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -136,7 +136,18 @@
           transform="translate(0, 55)"
         >
           
-    
+    <g data-testid="rank-circle"
+          transform="translate(390.5, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          A-
+        </text>
+      
+        </g>
+      </g>
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
