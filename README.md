@@ -14,7 +14,7 @@
 - 🔬 Researching autonomous driving and large language models, with a current focus on VLA for autonomous driving.
 - 🌱 Also exploring agents and world models.
 - 🏸 Badminton enthusiast with professional training.
-- 🥊 Trained in sanda and boxing.
+- 🥊 Sanda and boxing enthusiast with some training.
 
 ## 📊 GitHub Stats
 
