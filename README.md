@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AnInsomniac&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=PhD+Student+%7C+Autonomous+Driving+%26+LLM+Research&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AnInsomniac&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=PhD+Student+%7C+Autonomous+Driving+and+LLM+Research&descAlignY=52&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Teaching+cars+to+drive+so+I+don't+have+to;Probably+debugging+something+right+now;PhD+life%3A+fueled+by+coffee+and+curiosity" alt="Typing SVG" /></a>
 
