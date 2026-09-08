@@ -1,83 +1,83 @@
-# ---------------------------------------------------------------
-# Workflow: Update README Stats Cards
-# ---------------------------------------------------------------
-# Generates github-readme-stats SVG cards as static assets via
-# GitHub Actions, eliminating dependency on the public Vercel
-# instance which suffers from rate-limiting and stale caches.
-#
-# Schedule: Runs daily at midnight UTC and on manual dispatch.
-# Output:   SVG files committed to the assets/ directory.
-# ---------------------------------------------------------------
-
-name: Update README Cards
+name: Update profile stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
-  workflow_dispatch:       # Allow manual trigger from Actions tab
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-stats.yml
+
+concurrency:
+  group: profile-stats-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
-  generate-cards:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 15
+    env:
+      STATS_OPTIONS: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&include_all_commits=true&card_width=400&line_height=25&hide_border=true&disable_animations=true&custom_title=Open-source%20activity
+      LANGUAGE_OPTIONS: username=${{ github.repository_owner }}&layout=compact&langs_count=8&card_width=320&hide_border=true&disable_animations=true&custom_title=Languages
+      LIGHT_COLORS: bg_color=ffffff00&title_color=172b4d&text_color=35465c&icon_color=0969da
+      DARK_COLORS: bg_color=ffffff00&title_color=e6edf3&text_color=b7c6d9&icon_color=79b8ff
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Check out profile
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
 
-      # ----------------------------------------------------------
-      # Stats Card
-      # Shows total stars, commits, PRs, issues, and contributions
-      # ----------------------------------------------------------
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate light stats
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-          path: assets/stats.svg
+          options: ${{ env.STATS_OPTIONS }}&${{ env.LIGHT_COLORS }}
+          path: assets/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
 
-      # ----------------------------------------------------------
-      # Top Languages Card
-      # Shows most-used programming languages across repositories
-      # ----------------------------------------------------------
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate dark stats
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+        with:
+          card: stats
+          options: ${{ env.STATS_OPTIONS }}&${{ env.DARK_COLORS }}
+          path: assets/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
+
+      - name: Generate light languages
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-          path: assets/top-langs.svg
+          options: ${{ env.LANGUAGE_OPTIONS }}&${{ env.LIGHT_COLORS }}
+          path: assets/languages-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
 
-      # ----------------------------------------------------------
-      # Pin Card — motrix-next
-      # ----------------------------------------------------------
-      - name: Generate pin card for motrix-next
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate dark languages
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
         with:
-          card: pin
-          options: "username=${{ github.repository_owner }}&repo=motrix-next&theme=tokyonight&hide_border=true"
-          path: assets/pin-motrix-next.svg
+          card: top-langs
+          options: ${{ env.LANGUAGE_OPTIONS }}&${{ env.DARK_COLORS }}
+          path: assets/languages-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
 
-      # ----------------------------------------------------------
-      # Pin Card — tracknet-series-pytorch
-      # ----------------------------------------------------------
-      - name: Generate pin card for tracknet-series-pytorch
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: "username=${{ github.repository_owner }}&repo=tracknet-series-pytorch&theme=tokyonight&hide_border=true"
-          path: assets/pin-tracknet.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # ----------------------------------------------------------
-      # Commit and push generated SVGs
-      # ----------------------------------------------------------
-      - name: Commit and push cards
+      # The default success condition keeps partial or failed updates out of Git.
+      - name: Commit refreshed stats
         run: |
+          git add assets/stats-{light,dark}.svg assets/languages-{light,dark}.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git diff --staged --quiet || (git commit -m "chore: update readme stats cards" && git push)
+          git commit -m "chore: refresh profile stats"
+          git push

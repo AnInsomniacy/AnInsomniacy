@@ -1,61 +1,43 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img src="./assets/header-light.svg" alt="AnInsomniac — PhD student. Autonomous Driving &amp; Large Language Models." width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AnInsomniac&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Autonomous+Driving+·+LLM+Researcher&descAlignY=52&descSize=18" width="100%"/>
+[qq1326555262@gmail.com](mailto:qq1326555262@gmail.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Teaching+cars+to+drive+so+I+don't+have+to;Probably+debugging+something+right+now;PhD+life%3A+fueled+by+coffee+and+curiosity" alt="Typing SVG" /></a>
+## About
 
-[![Email](https://img.shields.io/badge/Email-qq1326555262@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:qq1326555262@gmail.com)
+- PhD student at **Sun Yat-sen University**, School of Intelligent Systems Engineering.
+- Researching **autonomous driving and large language models**, with a current emphasis on vision-language-action (VLA) models for autonomous driving.
+- Also exploring agents and world models.
+- 🏸 Badminton enthusiast with professional training.
+- 🥊 Also trained in sanda and boxing.
 
-</div>
+## Selected projects
 
-## 🧑‍💻 About
+**[motrix-next](https://github.com/AnInsomniacy/motrix-next)**<br>
+A full-featured download manager, rebuilt from the ground up.
 
-- 🏫 Incoming PhD @ **Sun Yat-sen University**, School of Intelligent Systems Engineering
-- 🔬 Research interests: Autonomous Driving · Large Language Models · Computer Vision · Deep Learning
-- 🏸 Badminton enthusiast with professional training
-- 🌱 Currently exploring multi-modal perception for autonomous driving and world models
+**[tracknet-series-pytorch](https://github.com/AnInsomniacy/tracknet-series-pytorch)**<br>
+Tracking small, fast-moving objects in sports videos with PyTorch.
 
-## 📊 GitHub Stats
+**Tools:** Docker, TensorFlow, PyTorch, OpenCV, Kubernetes.
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="./assets/stats.svg" height="180"/>
-    </td>
-    <td>
-      <img src="./assets/top-langs.svg" height="180"/>
-    </td>
-  </tr>
-</table>
+## GitHub
 
-## 🛠️ Tech & Projects
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/AnInsomniacy/motrix-next">
-        <img src="./assets/pin-motrix-next.svg" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AnInsomniacy/tracknet-series-pytorch">
-        <img src="./assets/pin-tracknet.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,tensorflow,pytorch,opencv,kubernetes&theme=dark" />
-  </a>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+    <img src="./assets/stats-light.svg" alt="GitHub statistics: stars, commits, pull requests, issues and contributions." width="400">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg">
+    <img src="./assets/languages-light.svg" alt="Most used languages across my repositories." width="320">
+  </picture>
 </p>
 
-<div align="center">
-<br>
+*Live life to the fullest.*
 
-**✨ *"Live life to the fullest."* ✨**
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+[Sponsor](./SPONSOR.md)

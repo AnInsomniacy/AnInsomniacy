@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="248" viewBox="0 0 480 248" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">AnInsomniac — PhD student</title>
+  <desc id="description">Autonomous Driving and Large Language Models.</desc>
+  <rect width="480" height="248" rx="16" fill="#f6f8fa"/>
+  <g aria-hidden="true">
+    <path d="M356 62C375 62 381 30 410 30H450" stroke="#c6d2df" stroke-width="1.5"/>
+    <path d="M364 70C391 70 392 40 413 40H450" stroke="#0969da" stroke-width="2"/>
+    <circle cx="416" cy="40" r="3.5" fill="#16827c"/>
+    <path d="M28 218H452" stroke="#d8e2ec"/>
+    <path d="M28 218H76" stroke="#0969da" stroke-width="2"/>
+  </g>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="28" y="52" fill="#0969da" font-size="23" font-weight="600">PhD student</text>
+    <text x="25" y="114" fill="#172b4d" font-size="49" font-weight="650" letter-spacing="-1.5">AnInsomniac</text>
+    <text x="28" y="157" fill="#35465c" font-size="24">Autonomous Driving</text>
+    <text x="28" y="188" fill="#35465c" font-size="24">&amp; Large Language Models</text>
+  </g>
+</svg>
