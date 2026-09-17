@@ -34,8 +34,8 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/AnInsomniacy/motrix-next">
-        <img src="./assets/pin-motrix-next.svg" />
+      <a href="https://github.com/AnInsomniacy/rayburst">
+        <img src="./assets/pin-rayburst.svg" />
       </a>
     </td>
     <td>
